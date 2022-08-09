@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 016befdb6acb3f54b8196e4a8e4b6a1b, type: 3}
+  m_Name: NFT Holder
+  m_EditorClassIdentifier: 
+  NFTScriptableObjects:
+  - {fileID: 11400000, guid: 6598d322df4adf64f8b04cd23753959a, type: 2}
+  - {fileID: 11400000, guid: 6e5666ba2bbc10749a2dbefad3a76b3d, type: 2}
+  - {fileID: 11400000, guid: e4dd0ab30b31c164e9a02ecb9622382e, type: 2}
+  - {fileID: 11400000, guid: 627865e1b64e51b4b97538d22279fecb, type: 2}
+  - {fileID: 11400000, guid: c7bbf03e9acb6654e82ffbcb1e6d812f, type: 2}
+  - {fileID: 11400000, guid: dbd7c27d57b212e4fb251647f720aa6c, type: 2}
+  - {fileID: 11400000, guid: 2a78c72c62991c44cb769cab098dd274, type: 2}
+  - {fileID: 11400000, guid: 5408819714dadbc4c929a7858ca65a13, type: 2}
+  - {fileID: 11400000, guid: 4e0a0bb862b39f741b9083f303445d73, type: 2}
+  - {fileID: 11400000, guid: 7fa4727ae12b49845b7cdd1163cac9b1, type: 2}
